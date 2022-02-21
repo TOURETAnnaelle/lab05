@@ -1,6 +1,6 @@
 .flex-container {
     padding : 0;
-    margin : 0;
+    margin : 5%;
     list-style : none ;
     display : flex ;
     flex-flow : row wrap ;
@@ -21,6 +21,17 @@
     text-decoration: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.flex-item2 {
+    margin-left: 45%;
+    padding: 1% ;
+    background : rgb(19, 61, 248) ;
+    color: white ;
+    font-size: 3em ;
+    text-align: center ;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 
 
 h1{
